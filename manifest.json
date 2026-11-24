@@ -1,0 +1,11 @@
+{
+  "name": "Queue Top 10",
+  "description": "Adds a button to artist pages that queues the artist's 10 most popular songs.",
+  "preview": "preview.png",
+  "main": "queueTopTen.js",
+  "readme": "README.md",
+  "authors": [
+    { "name": "Michal Stobinski", "url": "https://github.com/stobasan" }
+  ],
+  "tags": ["queue", "artist"]
+}
